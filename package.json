@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "local-llm.helloWorld",
-        "title": "Hello World"
+        "command": "local-llm.hi",
+        "title": "hi"
       }
     ]
   },
